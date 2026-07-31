@@ -5,8 +5,8 @@
 %global crate pathdiff
 
 Name:           rust-%{crate}
-Version:        0.1.0
-Release:        3%{?dist}
+Version:        0.2.3
+Release:        1%{?dist}
 Summary:        Library for diffing paths to obtain relative paths
 
 # Upstream license specification: MIT/Apache-2.0
